@@ -1,0 +1,12 @@
+C:\Users\Feracios\Documents\GitHub\ADO.NET\MusicNotes\MusicNotes\bin\Debug\MusicNotes.exe.config
+C:\Users\Feracios\Documents\GitHub\ADO.NET\MusicNotes\MusicNotes\bin\Debug\MusicNotes.exe
+C:\Users\Feracios\Documents\GitHub\ADO.NET\MusicNotes\MusicNotes\bin\Debug\MusicNotes.pdb
+C:\Users\Feracios\Documents\GitHub\ADO.NET\MusicNotes\MusicNotes\obj\Debug\MusicNotes.csprojResolveAssemblyReference.cache
+C:\Users\Feracios\Documents\GitHub\ADO.NET\MusicNotes\MusicNotes\obj\Debug\MusicNotes.Properties.Resources.resources
+C:\Users\Feracios\Documents\GitHub\ADO.NET\MusicNotes\MusicNotes\obj\Debug\MusicNotes.csproj.GenerateResource.Cache
+C:\Users\Feracios\Documents\GitHub\ADO.NET\MusicNotes\MusicNotes\obj\Debug\MusicNotes.exe
+C:\Users\Feracios\Documents\GitHub\ADO.NET\MusicNotes\MusicNotes\obj\Debug\MusicNotes.pdb
+C:\Users\Feracios\Documents\GitHub\ADO.NET\MusicNotes\MusicNotes\bin\Debug\NAudio.dll
+C:\Users\Feracios\Documents\GitHub\ADO.NET\MusicNotes\MusicNotes\bin\Debug\NAudio.xml
+C:\Users\Feracios\Documents\GitHub\ADO.NET\MusicNotes\MusicNotes\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Feracios\Documents\GitHub\ADO.NET\MusicNotes\MusicNotes\obj\Debug\MusicNotes.Form2.resources
